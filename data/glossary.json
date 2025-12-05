@@ -1,0 +1,38 @@
+[
+  {
+    "term": "deductible",
+    "definition": "Deductible is the amount you pay out of pocket each year before the insurer starts sharing costs. A higher deductible usually lowers premium but increases your cost when you claim."
+  },
+  {
+    "term": "premium",
+    "definition": "Premium is what you pay the insurer to keep the policy active. It is paid regardless of whether you make a claim."
+  },
+  {
+    "term": "coinsurance",
+    "definition": "Coinsurance is the percentage of covered costs you pay after meeting the deductible. For example, 20% coinsurance means you pay 20% and the insurer pays 80% of covered expenses."
+  },
+  {
+    "term": "out-of-pocket maximum",
+    "definition": "Out-of-pocket maximum (OOP max) is the most you could pay in a year for covered services. After you reach it, the insurer pays 100% of covered costs for the rest of the year."
+  },
+  {
+    "term": "coverage limit",
+    "definition": "Coverage limit is the maximum the insurer will pay for certain services or the policy overall. Higher limits reduce the chance you exhaust coverage during major events."
+  },
+  {
+    "term": "annual benefit maximum",
+    "definition": "Annual benefit maximum is the total the plan will pay in a policy year across covered services."
+  },
+  {
+    "term": "network",
+    "definition": "Network size indicates how many hospitals/clinics are in-network. Using in-network providers keeps costs predictable and lower."
+  },
+  {
+    "term": "family floater",
+    "definition": "A family floater covers the whole family under a single sum insured. It is often cheaper than four individual policies but the sum insured is shared."
+  },
+  {
+    "term": "waiting period",
+    "definition": "Waiting period is the time after purchase before certain benefits (e.g., pre-existing) become payable."
+  }
+]
