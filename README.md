@@ -14,10 +14,15 @@ This project showcases a simple yet powerful chatbot built using Python, utility
 
 ##  Project Structure
 ├── app.py # Main application entry point
+
 ├── core/ # Core chatbot logic and processing
+
 ├── data/ # Dataset or example quotes
+
 ├── utils/ # Utility functions and helpers
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
@@ -53,7 +58,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-#### If using Flask
+### If using Flask
 ```bash
 export FLASK_APP=app.py
 flask run
