@@ -65,7 +65,7 @@ flask run
 ```
 Then open your browser at http://localhost:5000
 
-### How It WOrks
+### How It Works
 1. Input Handling — User enters a query asking for quote comparisons.
 
 2. Processing — The chatbot logic reads quote data and applies comparison logic.
